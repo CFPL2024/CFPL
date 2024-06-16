@@ -1,0 +1,146 @@
+{
+    "request_low_temperature": [
+        "ask low temperature",
+        "what low temperature",
+        "what lowest temperature",
+        "know low temperature"
+    ],
+    "request_time": [
+        "what day",
+        "which days",
+        "what days",
+        "when"
+    ],
+    "appreciate": [
+        "thank",
+        "thanks",
+        "thank you",
+        "grateful"
+    ],
+    "request_temperature": [
+        "ask temperature",
+        "what temperature",
+        "find temperature",
+        "need temperature"
+    ],
+    "request_weather": [
+        "give forecast",
+        "tell forecast",
+        "what weather",
+        "check weather"
+    ],
+    "inform": [
+        "tell",
+        "please",
+        "notify",
+        "can"
+    ],
+    "request_high_temperature": [
+        "ask high temperature",
+        "what high temperature",
+        "give high temperature",
+        "how hot"
+    ],
+    "query": [
+        "ask",
+        "inquire",
+        "which",
+        "is that"
+    ],
+    "request_poi": [
+        "request place",
+        "find place",
+        "want place",
+        "where"
+    ],
+    "request_traffic": [
+        "what traffic",
+        "ask traffic",
+        "how traffic",
+        "any traffic"
+    ],
+    "request_address": [
+        "give address",
+        "find address",
+        "get address",
+        "what address"
+    ],
+    "request_route": [
+        "give route",
+        "pick route",
+        "find route",
+        "need route"
+    ],
+    "confirm": [
+        "Yes",
+        "sure",
+        "OK",
+        "Okay"
+    ],
+    "show_in_screen": [
+        "send on screen",
+        "send on map",
+        "show on map",
+        "find on map"
+    ],
+    "navigate": [
+        "GPS",
+        "direct",
+        "navigation",
+        "go there"
+    ],
+    "schedule": [
+        "agenda",
+        "plan",
+        "calendar",
+        "programme"
+    ],
+    "command_appointment": [
+        "set appointment",
+        "make appointment",
+        "schedule appointment",
+        "confirm appointment"
+    ],
+    "remind": [
+        "alarm",
+        "reminder",
+        "warn",
+        "attention"
+    ],
+    "request_information": [
+        "give information",
+        "need information",
+        "find information",
+        "want info"
+    ],
+    "list_schedule": [
+        "tell schedule",
+        "need schedule",
+        "set up",
+        "what schedule"
+    ],
+    "request_party": [
+        "what party",
+        "which party",
+        "find party",
+        "party attending"
+    ],
+    "request_agenda": [
+        "need agenda",
+        "find agenda",
+        "what agenda",
+        "tell agenda"
+    ],
+    "request_location": [
+        "what location",
+        "where located",
+        "find location",
+        "where location"
+    ],
+    "request_date": [
+        "find date",
+        "tell date",
+        "ask date",
+        "what date"
+    ]
+}
